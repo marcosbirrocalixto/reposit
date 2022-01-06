@@ -159,6 +159,8 @@ return [
         'text'                  => 'texto',
         'time'                  => 'hora',
         'title'                 => 'título',
+        'category_id'           => 'categoria',
+        'price'                 => 'preço',
         'username'              => 'usuário',
         'year'                  => 'ano',
     ],
